@@ -50,3 +50,4 @@ jobs:
         with:
           name: libzink_${{matrix.arch}}
           path: /tmp/zink
+
